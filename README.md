@@ -101,5 +101,7 @@ Python - Programming language
 
 ✍️ Authors
 
-*
-*
+* Pauline Macharia <paullymuthoni@gmail.com>
+
+* Otero Onderi <oteronickbrian@gmial.com>
+
