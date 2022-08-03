@@ -2,19 +2,18 @@
 
 ## Table of Contents
 
-**About**
+[About]
 
-**Getting Started**
+[Getting] [Started]
 
-**Deployment**
+[Deployment]
 
-**Usage**
+[Usage]
 
-**Built Using**
+[Built] [Using]
 
-**Contributing**
+[Contributing]
 
-**Authors**
+[Authors]
 
-**Acknowledgments**
-
+[Acknowledgments]
