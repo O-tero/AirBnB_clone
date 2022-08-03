@@ -12,7 +12,6 @@ With command interpreter you can:
 
 ### Installation
 
- *git clone <https://github.com/ollyimanishimwe/AirBnB_clone>*
  *cd AirBnB_clone*
 
 ### Usage
