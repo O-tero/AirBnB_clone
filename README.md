@@ -2,18 +2,18 @@
 
 ## Table of Contents
 
-[About]
+__*About__
 
-[Getting] [Started]
+__*Getting__ __Started__
 
-[Deployment]
+__*Deployment__
 
-[Usage]
+__*Usage__
 
-[Built] [Using]
+__*Built__ __Using__
 
-[Contributing]
+__*Contributing__
 
-[Authors]
+__*Authors__
 
-[Acknowledgments]
+__*Acknowledgments__
