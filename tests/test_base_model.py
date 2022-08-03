@@ -13,7 +13,6 @@ import os
 
 class TestClass(unittest.TestCase):
     """Test cases"""
-
     def setUp(self):
         self.model = BaseModel()
         return super().setUp()
