@@ -13,6 +13,7 @@ import os
 
 class TestClass(unittest.TestCase):
     """Test cases"""
+
     def setUp(self):
         self.model = BaseModel()
         return super().setUp()
@@ -37,13 +38,13 @@ class TestClass(unittest.TestCase):
             data = json.loads(file_string)
 
         self.assertTrue(
-                '{}.{}'.format(type(self.model).__name__, self.model.id) in data
-            )
+            '{}.{}'.format(type(self.model).__name__, self.model.id) in data
+        )
 
         self.assertDictEqual(
             self.model.to_dict(),
             data['{}.{}'.format(type(self.model).__name__, self.model.id)]
-            )
+        )
 
     def test_assign_attribute(self):
         """ Test new attribute"""
@@ -85,4 +86,3 @@ class TestClass(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    
