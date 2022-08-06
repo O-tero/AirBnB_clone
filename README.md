@@ -100,8 +100,11 @@ Quit the shell
 Python - Programming language
 
 ✍️ Authors
-Otero Onderi <oteronickbrian@gmail.com>
-Pauline Macharia <paullymuthoni@gmail.com>
+
+*Otero Onderi <oteronickbrian@gmail.com>
+
+*Pauline Macharia <paullymuthoni@@gmailcom>
+
 
 
 
